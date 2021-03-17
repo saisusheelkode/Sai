@@ -21,7 +21,7 @@ Jawaharlal Nehru Technological University Hyderabad, TS, INDIA
     
 # Research Experience 
 
-## Graduate Research Assistant                                                                                        Aug 2018 - Aug 2019 
+## Graduate Research Assistant (Aug 2018 - Aug 2019) 
 Mentor: Distinguished Prof. Yuri Shtessel
 
 > This research work is supported by NASA Marshall Space Flight Center (MSFC) Control System and Design Analysis Branch (EV41) 
