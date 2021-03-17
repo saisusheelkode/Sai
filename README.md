@@ -145,10 +145,7 @@ The University of Alabama in Huntsville
 <br> The University of Alabama in Huntsville 
 <br> <ais@uah.edu>
 
-* Dr. Shangbing Ai  
-<br> Professor in Mathematical Sciences
-<br> The University of Alabama in Huntsville 
-<br> <ais@uah.edu>
+
 
 
 
