@@ -1,19 +1,24 @@
 # Bio 
 
-* Let me introduce myself. I am Sai Kode, a full time Ph.D. student in the Electrical and Computer Engineering Department at The University of Alabama in Huntsville in the area of aerospace dynamics and control systems. 
+* Ph.D. Candidate, The University of Alabama in Huntsville 
+* Advisor: Dr. Yuri B. Shtessel 
+* Huntsville, AL, USA
+* <sk0041@uah.edu>
+
+## Research Interests
+
+* Aerospace Dynamics and Controls 
+* Sliding Mode Control
+* Robotics 
+* Neural Networks 
+* Design Engineering 
+* Manufacturing 
 
 ## Doctoral Research 
 
 * This work mainly focuses on developing a novel MATLAB based Aerospace sliding mode control toolbox (SMC Aero). 
 * The toolbox possesses the auto-tuning capability. The developed toolbox is verified on Resource Prospector Lander (RPL) and Launch Vehicle (LV). 
 * This work is supported by NASA Marshall Space Flight Center's (MSFC) Control System Design and Analysis Branch (EV41). 
-
-
-## Contact Details 
-
-* Email: <sk0041@uah.edu>
-* Mobile: +1(256)655-4357 
-* Huntsville, AL, USA.
 
 # Education 
 
