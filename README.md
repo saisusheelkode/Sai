@@ -48,7 +48,7 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 * Exercised the use of GE systems such as TechNet, PTC Creo and Creo View.
 
 # Publications 
-Peer-reviewed
+> Peer-reviewed
 
 ## Journal Articles
 
@@ -76,8 +76,8 @@ Peer-reviewed
 # Teaching
 
 ## Graduate Teaching Assistant (Dec 2019 – Present)
-The University of Alabama in Huntsville
-Electrical and Computer Engineering Department
+> The University of Alabama in Huntsville
+> The Department of Electrical and Computer Engineering 
 
 * EE 202: Intro Digital Logic Design 
 * EE 213: Electrical Circuit Analysis I 
@@ -86,9 +86,9 @@ Electrical and Computer Engineering Department
 * EE 385: Random Signals and Noise 
 * EE 386: Intro Control/Robotic Systems
 
-## Graduate Teaching Assistant, The University of Alabama in Huntsville (Aug 2014 - May 2015)
-The University of Alabama in Huntsville
-Mechanical and Aerospace Engineering Department
+## Graduate Teaching Assistant (Aug 2014 - May 2015)
+> The University of Alabama in Huntsville
+> The Department of Mechanical and Aerospace Engineering 
 
 * MAE 111: Intro to Computation Tools                                  
 
