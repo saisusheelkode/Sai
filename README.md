@@ -135,25 +135,16 @@ The University of Alabama in Huntsville
 <br> The University of Alabama in Huntsville 
 <br> <shtessy@uah.edu>
 
-* Dr. Yuri B. Shtessel 
-<br> Distinguished Professor in Electrical and Computer Engineering 
-<br> The University of Alabama in Huntsville 
-<br> <shtessy@uah.edu>
-
-* Dr. Yuri B. Shtessel 
-<br> Distinguished Professor in Electrical and Computer Engineering 
-<br> The University of Alabama in Huntsville 
-<br> <shtessy@uah.edu>
-
-* Dr. Farbod Fahimi  
-<br> Associate Professor in Mechanical and Aerospace Engineering 
+* Dr. Farbod Fahimi
+<br> Associate Professor in Mechanical and Aerospace Engineering
 <br> The University of Alabama in Huntsville 
 <br> <ff0002@uah.edu>
 
 * Dr. Shangbing Ai  
-<br> Professor in Mathematical Sciences  
+<br> Professor in Mathematical Sciences
 <br> The University of Alabama in Huntsville 
 <br> <ais@uah.edu>
+
 
 
 
