@@ -133,9 +133,9 @@ The University of Alabama in Huntsville
 > Professional Reference 1 
 
 Dr. Yuri B. Shtessel 
-* Distinguished Professor in Electrical and Computer Engineering 
-* The University of Alabama in Huntsville 
-* <shtessy@uah.edu>
+<br> Distinguished Professor in Electrical and Computer Engineering 
+<br> The University of Alabama in Huntsville 
+<br> <shtessy@uah.edu>
 
 > Professional Reference 2 
 
