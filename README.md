@@ -2,8 +2,6 @@
 
 * Let me introduce myself. I am Sai Kode, a full time Ph.D. student in the Electrical and Computer Engineering Department at The University of Alabama in Huntsville in the area of aerospace dynamics and control systems. 
 
-* I am conducting research under the supervision of Distinguished Prof. Yuri B. Shtessel, of Electrical and Computer Engineering Department at The University of Alabama in Huntsville
-
 ## Doctoral Research 
 
 * This work mainly focuses on developing a novel MATLAB based Aerospace sliding mode control toolbox (SMC Aero). 
