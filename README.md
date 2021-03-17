@@ -47,3 +47,30 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 * Instrument and run test units, diagnose and repair units as needed, modify parts and build prototype parts, obtain measurement data needed for six-sigma analysis and support rework of harnessing.
 * Exercised the use of GE systems such as TechNet, PTC Creo and Creo View.
 
+# Publications 
+Peer-reviewed
+
+## Journal Articles
+
+1.	S. Kode, Y. Shtessel, A. Levant, J. Rakoczy, M. Hannan, and J. Orr, “Aerospace Sliding Mode Control Toolbox: Relative Degree with Resource Prospector Lander and Launch Vehicle Case Studies.” IEEE Transactions on Aerospace and Electronic Systems (submitted).
+
+2.	Fahimi, F., and Kode, S.S.P., “A universal trajectory tracking controller for mobile robots via model free on-line reinforcement learning,” Control and Intelligent Systems, vol. 43, no. 1, pp. 56-64, 2015.  
+                            
+## Conference Proceedings
+1.	S. Kode., and Y. Shtessel., “Sliding Mode Control Toolbox for Aerospace Applications: Relative Degree Approach”, AIAA SciTech 2020 Forum, 1100, FL, USA.
+
+2.	SSP Kode., and S. Phillips., “Experimental Study of PID and Robust Feedback Linearization Controllers using a 2-DOF Five Link Planar Robot”, IEEE SoutheastCon 2018, FL, USA.
+
+3.	S. Kode., and Y. Shtessel., “Launch Vehicle Control Design Using Sliding Mode Control Toolbox”, 55th Annual Conference on Information Sciences and Systems (CISS) 2021, MD, USA (Accepted).
+
+4.	S. Kode., and Y. Shtessel., “Resource Prospector Lander Control Design Using Sliding Mode Control Toolbox”, IEEE SoutheastCon 2021, GA, USA (Accepted).
+
+## Invited Talks
+1.	SSP Kode., “Universal Learning Controllers for driver-less cars/trucks”, 3-MT Thesis Presentation, The University of Alabama in Huntsville, November 2014, AL, USA.
+2.	SSP Kode., “Generalized dynamics and control of 2-DOF five link planar robot”, 2018 Southeast Symposium on Contemporary Engineering Topics, The University of Alabama in Huntsville, August 2018, AL, USA.
+
+
+## Poster Presentation
+1.	S. Kode., and Y. Shtessel., “Aerospace Sliding Mode Control Toolbox: Relative Degree Approach”, 13th Wernher Von Braun Memorial Symposium 2020, Huntsville, AL, USA.
+
+
