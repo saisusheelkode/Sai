@@ -1,5 +1,5 @@
 # Bio 
-* Email: sk0041@uah.edu
+* Email: <sk0041@uah.edu>
 * Mobile: +1(256)655-4357 
 * Huntsville, AL, USA.
 
@@ -107,10 +107,10 @@ The University of Alabama in Huntsville
 * Proceedings of 2018 ASME InterPACK (2018)
 
 # Press Interviews and Articles
-* http://whnt.com/2014/09/10/uah-team-builds-autonomous-robot
-* https://www.uah.edu/eng/engineering-news/8336-whnt-interviews-uah-students-advisor-about-autonomous-robot-build
-* http://www.uah.edu/news/research/students-autonomous-robot-project-could-be-a-lifesaver
-* https://www.uah.edu/news/people/alumnus-returns-to-uah-as-doctoral-candidate-after-working-in-industry
+* <http://whnt.com/2014/09/10/uah-team-builds-autonomous-robot>
+* <https://www.uah.edu/eng/engineering-news/8336-whnt-interviews-uah-students-advisor-about-autonomous-robot-build>
+* <http://www.uah.edu/news/research/students-autonomous-robot-project-could-be-a-lifesaver>
+* <https://www.uah.edu/news/people/alumnus-returns-to-uah-as-doctoral-candidate-after-working-in-industry>
 
 
 
