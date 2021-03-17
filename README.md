@@ -140,10 +140,10 @@ The University of Alabama in Huntsville
 <br> The University of Alabama in Huntsville 
 <br> <ff0002@uah.edu>
 
-* Dr. Farbod Fahimi
-<br> Associate Professor in Mechanical and Aerospace Engineering
+* Dr. Shangbing Ai
+<br> Professor in Mathematical Sciences
 <br> The University of Alabama in Huntsville 
-<br> <ff0002@uah.edu>
+<br> <ais@uah.edu>
 
 * Dr. Shangbing Ai  
 <br> Professor in Mathematical Sciences
