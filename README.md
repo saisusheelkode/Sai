@@ -130,24 +130,26 @@ The University of Alabama in Huntsville
 
 # List of References 
 
-> Professional Reference 1 
+## Professional Reference 1 
 
-<br> Yuri B. Shtessel 
-<br> Distinguished Professor in Electrical and Computer Engineering 
-<br> The University of Alabama in Huntsville 
-<br> Email: <shtessy@uah.edu>
+Yuri B. Shtessel 
+* Distinguished Professor in Electrical and Computer Engineering 
+* The University of Alabama in Huntsville 
+* <shtessy@uah.edu>
 
-> Professional Reference 2 
-<br> Farbod Fahimi  
-<br> Associate Professor in Mechanical and Aerospace Engineering 
-<br> The University of Alabama in Huntsville 
-<br> Email: <ff0002@uah.edu>
+## Professional Reference 2 
 
-> Professional Reference 3
-<br> Shangbing Ai  
-<br> Professor in Mathematical Sciences  
-<br> The University of Alabama in Huntsville 
-<br> Email: <ais@uah.edu>
+Farbod Fahimi  
+* Associate Professor in Mechanical and Aerospace Engineering 
+* The University of Alabama in Huntsville 
+* <ff0002@uah.edu>
+
+## Professional Reference 3
+
+Shangbing Ai  
+* Professor in Mathematical Sciences  
+* The University of Alabama in Huntsville 
+* <ais@uah.edu>
 
 
 
