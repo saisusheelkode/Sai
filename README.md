@@ -81,9 +81,10 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 
 # Teaching
 
-## Graduate Teaching Assistant, The Department of Electrical and Computer Engineering (Dec 2019 – Present)
-> The University of Alabama in Huntsville
+## Graduate Teaching Assistant (Dec 2019 – Present)
+The University of Alabama in Huntsville
 
+> The Department of Electrical and Computer Engineering 
 * EE 202: Intro Digital Logic Design 
 * EE 213: Electrical Circuit Analysis I 
 * EE 315: Intro Electronic Analysis and Design
@@ -91,9 +92,10 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 * EE 385: Random Signals and Noise 
 * EE 386: Intro Control/Robotic Systems
 
-## Graduate Teaching Assistant, The Department of Mechanical and Aerospace Engineering (Aug 2014 - May 2015)
-> The University of Alabama in Huntsville
+## Graduate Teaching Assistant (Aug 2014 - May 2015)
+The University of Alabama in Huntsville
 
+> The Department of Mechanical and Aerospace Engineering  
 * MAE 111: Intro to Computation Tools                                  
 
 # Service 
