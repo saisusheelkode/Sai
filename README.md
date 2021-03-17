@@ -7,15 +7,18 @@
 
 ## Ph.D., Electrical and Computer Engineering                                                                         
 The University of Alabama in Huntsville, Huntsville, AL, USA
+
 * Advisor: Distinguished Prof. Yuri Shtessel 
 * Dissertation: “Aerospace Sliding Mode Control Toolbox: Relative Degree Approach with Resource Prospector Lander and Launch Vehicle Case Studies.”
 
 ## M.S., Mechanical and Aerospace Engineering                                                                                
-The University of Alabama in Huntsville, Huntsville, AL, USA                                                                   
+The University of Alabama in Huntsville, Huntsville, AL, USA  
+
 * Advisor: Associate Prof. Farbod Fahimi 
 * Thesis: “Conversion of Neural Network models to state-space models for model-based control design.”    
 
-## B.Tech., Mechanical Engineering                                                                                                     
+## B.Tech., Mechanical Engineering  
+
 Jawaharlal Nehru Technological University Hyderabad, TS, INDIA
 * Project: “Metallurgical Failure Analysis of Turbine Blades.” 
     
@@ -26,6 +29,7 @@ Mentor: Distinguished Prof. Yuri Shtessel
 
 > This research work is supported by NASA Marshall Space Flight Center (MSFC) Control System and Design Analysis Branch (EV41) 
 under the contract MSFC (80NSSC18P1623).
+
 * Developing a novel MATLAB/Simulink based Aerospace Sliding Mode Control Toolbox
 * The developed toolbox is verified on Resource Prospector Lander and Launch Vehicle 
 * The created Sliding Mode Control Toolbox will be used at NASA/MSFC for designing the robust control systems for various aerospace missions.
@@ -36,6 +40,7 @@ under the contract MSFC (80NSSC18P1623).
 General Electric Appliances, a Haier company, Lafayette, GA, USA
 
 > 2019 NPI Phase-I Leadership wall oven Program
+
 * Interfaced NPI team, manufacturing, operations, sourcing, suppliers, as well as program managers to champion the transition from design to mass production.
 * Utilized build management practices to assist in the co-ordination trial runs.
 
@@ -43,6 +48,7 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 General Electric Appliances, a Haier company, Lafayette, GA, USA
 
 > 2017 NPI Front Control and Free-Standing Electric Range Program 
+
 * Major responsibilities revolved around the support of design engineers on an NPI program.
 * Instrument and run test units, diagnose and repair units as needed, modify parts and build prototype parts, obtain measurement data needed for six-sigma analysis and support rework of harnessing.
 * Exercised the use of GE systems such as TechNet, PTC Creo and Creo View.
@@ -75,9 +81,8 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 
 # Teaching
 
-## Graduate Teaching Assistant (Dec 2019 – Present)
+## Graduate Teaching Assistant, The Department of Electrical and Computer Engineering (Dec 2019 – Present)
 > The University of Alabama in Huntsville
-> The Department of Electrical and Computer Engineering 
 
 * EE 202: Intro Digital Logic Design 
 * EE 213: Electrical Circuit Analysis I 
@@ -86,9 +91,8 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 * EE 385: Random Signals and Noise 
 * EE 386: Intro Control/Robotic Systems
 
-## Graduate Teaching Assistant (Aug 2014 - May 2015)
+## Graduate Teaching Assistant, The Department of Mechanical and Aerospace Engineering (Aug 2014 - May 2015)
 > The University of Alabama in Huntsville
-> The Department of Mechanical and Aerospace Engineering 
 
 * MAE 111: Intro to Computation Tools                                  
 
