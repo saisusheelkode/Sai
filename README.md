@@ -73,4 +73,40 @@ Peer-reviewed
 ## Poster Presentation
 1.	S. Kode., and Y. Shtessel., “Aerospace Sliding Mode Control Toolbox: Relative Degree Approach”, 13th Wernher Von Braun Memorial Symposium 2020, Huntsville, AL, USA.
 
+# Teaching
+
+## Graduate Teaching Assistant (Dec 2019 – Present)
+The University of Alabama in Huntsville
+Electrical and Computer Engineering Department
+
+* EE 202: Intro Digital Logic Design 
+* EE 213: Electrical Circuit Analysis I 
+* EE 315: Intro Electronic Analysis and Design
+* EE 382/383: Analysis Methods Continuous Time systems and Multivariable
+* EE 385: Random Signals and Noise 
+* EE 386: Intro Control/Robotic Systems
+
+## Graduate Teaching Assistant, The University of Alabama in Huntsville (Aug 2014 - May 2015)
+The University of Alabama in Huntsville
+Mechanical and Aerospace Engineering Department
+
+* MAE 111: Intro to Computation Tools                                  
+
+# Service 
+
+## Reviewer
+
+* IEEE Southeast Conference (2018, 2019, 2020, 2021)
+* IEEE Transactions on Cybernetics (2019)
+* Proceedings of 2018 ASME InterPACK (2018)
+
+# Press Interviews and Articles
+* http://whnt.com/2014/09/10/uah-team-builds-autonomous-robot
+* https://www.uah.edu/eng/engineering-news/8336-whnt-interviews-uah-students-advisor-about-autonomous-robot-build
+* http://www.uah.edu/news/research/students-autonomous-robot-project-could-be-a-lifesaver
+* https://www.uah.edu/news/people/alumnus-returns-to-uah-as-doctoral-candidate-after-working-in-industry
+
+
+
+
 
