@@ -1,4 +1,18 @@
 # Bio 
+
+* Let me introduce myself. I am Sai Kode, a full time Ph.D. student in the Electrical and Computer Engineering Department at The University of Alabama in Huntsville in the area of aerospace dynamics and control systems. 
+
+* I am conducting research under the supervision of Distinguished Prof. Yuri B. Shtessel, of Electrical and Computer Engineering Department at The University of Alabama in Huntsville
+
+## Doctoral Research 
+
+* This work mainly focuses on developing a novel MATLAB based Aerospace sliding mode control toolbox (SMC Aero). 
+* The toolbox possesses the auto-tuning capability. The developed toolbox is verified on Resource Prospector Lander (RPL) and Launch Vehicle (LV). 
+* This work is supported by NASA Marshall Space Flight Center's (MSFC) Control System Design and Analysis Branch (EV41). 
+
+
+## Contact Details 
+
 * Email: <sk0041@uah.edu>
 * Mobile: +1(256)655-4357 
 * Huntsville, AL, USA.
@@ -27,8 +41,7 @@ Jawaharlal Nehru Technological University Hyderabad, TS, INDIA
 ## Graduate Research Assistant (Aug 2018 - Aug 2019) 
 Mentor: Distinguished Prof. Yuri Shtessel
 
-> This research work is supported by NASA Marshall Space Flight Center (MSFC) Control System and Design Analysis Branch (EV41) 
-under the contract MSFC (80NSSC18P1623).
+> This research work is supported by NASA Marshall Space Flight Center (MSFC) Control System and Design Analysis Branch (EV41) under the contract MSFC (80NSSC18P1623).
 
 * Developing a novel MATLAB/Simulink based Aerospace Sliding Mode Control Toolbox
 * The developed toolbox is verified on Resource Prospector Lander and Launch Vehicle 
@@ -107,10 +120,36 @@ The University of Alabama in Huntsville
 * Proceedings of 2018 ASME InterPACK (2018)
 
 # Press Interviews and Articles
+
 * <http://whnt.com/2014/09/10/uah-team-builds-autonomous-robot>
 * <https://www.uah.edu/eng/engineering-news/8336-whnt-interviews-uah-students-advisor-about-autonomous-robot-build>
 * <http://www.uah.edu/news/research/students-autonomous-robot-project-could-be-a-lifesaver>
 * <https://www.uah.edu/news/people/alumnus-returns-to-uah-as-doctoral-candidate-after-working-in-industry>
+
+
+# List of References 
+
+> Professional Reference 1 
+
+Yuri B. Shtessel 
+Distinguished Professor in Electrical and Computer Engineering 
+The University of Alabama in Huntsville 
+Email: <shtessy@uah.edu>
+
+> Professional Reference 2 
+
+Farbod Fahimi  
+Associate Professor in Mechanical and Aerospace Engineering 
+The University of Alabama in Huntsville 
+Email: <ff0002@uah.edu>
+
+> Professional Reference 3
+
+Shangbing Ai  
+Professor in Mathematical Sciences  
+The University of Alabama in Huntsville 
+Email: <ais@uah.edu>
+
 
 
 
