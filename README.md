@@ -1,5 +1,3 @@
-# Bio 
-
 * Ph.D. Candidate, The University of Alabama in Huntsville 
 * Advisor: Dr. Yuri B. Shtessel 
 * Huntsville, AL, USA
@@ -133,21 +131,18 @@ The University of Alabama in Huntsville
 # List of References 
 
 > Professional Reference 1 
-
 Yuri B. Shtessel 
 <br> Distinguished Professor in Electrical and Computer Engineering 
 <br> The University of Alabama in Huntsville 
 <br> Email: <shtessy@uah.edu>
 
 > Professional Reference 2 
-
 Farbod Fahimi  
 <br> Associate Professor in Mechanical and Aerospace Engineering 
 <br> The University of Alabama in Huntsville 
 <br> Email: <ff0002@uah.edu>
 
 > Professional Reference 3
-
 Shangbing Ai  
 <br> Professor in Mathematical Sciences  
 <br> The University of Alabama in Huntsville 
