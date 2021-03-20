@@ -145,6 +145,12 @@ The University of Alabama in Huntsville
 <br> The University of Alabama in Huntsville 
 <br> <ais@uah.edu>
 
+* Michael D. Gallant, P.E.
+<br> Program Director at Roper Corporation
+<br> General Electric Appliances, a Haier Company 
+<br> michael.gallant@geappliances.com
+
+
 
 
 
