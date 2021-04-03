@@ -85,6 +85,10 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 
 4.	S. Kode., and Y. Shtessel., “Resource Prospector Lander Control Design Using Sliding Mode Control Toolbox”, IEEE SoutheastCon 2021, GA, USA (Accepted).
 
+
+## ProQuest Theses/Dissertation 
+1.	Kode, S.S.P., 2015. Conversion Of Neural Network Models To State-Space Models For Model-Based Control Design. The University of Alabama in Huntsville.
+
 ## Invited Talks
 1.	SSP Kode., “Universal Learning Controllers for driver-less cars/trucks”, 3-MT Thesis Presentation, The University of Alabama in Huntsville, November 2014, AL, USA.
 2.	SSP Kode., “Generalized dynamics and control of 2-DOF five link planar robot”, 2018 Southeast Symposium on Contemporary Engineering Topics, The University of Alabama in Huntsville, August 2018, AL, USA.
