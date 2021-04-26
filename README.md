@@ -81,9 +81,9 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 
 2.	SSP Kode., and S. Phillips., “Experimental Study of PID and Robust Feedback Linearization Controllers using a 2-DOF Five Link Planar Robot”, IEEE SoutheastCon 2018, FL, USA.
 
-3.	S. Kode., and Y. Shtessel., “Launch Vehicle Control Design Using Sliding Mode Control Toolbox”, 55th Annual Conference on Information Sciences and Systems (CISS) 2021, MD, USA (Accepted).
+3.	S. Kode., and Y. Shtessel., “Launch Vehicle Control Design Using Sliding Mode Control Toolbox”, 55th Annual Conference on Information Sciences and Systems (CISS) 2021, MD, USA.
 
-4.	S. Kode., and Y. Shtessel., “Resource Prospector Lander Control Design Using Sliding Mode Control Toolbox”, IEEE SoutheastCon 2021, GA, USA (Accepted).
+4.	S. Kode., and Y. Shtessel., “Resource Prospector Lander Control Design Using Sliding Mode Control Toolbox”, IEEE SoutheastCon 2021, GA, USA.
 
 
 ## ProQuest Theses/Dissertation 
