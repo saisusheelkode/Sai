@@ -72,7 +72,7 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 
 ## Journal Articles
 
-1.	Kode, S.S.P., Y.shtessel., A. Levant., J. Rakoczy., M. Hannan., and J. Orr., “Aerospace Sliding Mode Control Toolbox: Relative Degree Approach with Resource Prospector Lander and Launch Vehicle Case Studies,” Arxiv_preprint, pp. 1-19, 2021. 
+1.	Kode, S.S.P., Y.Shtessel., A. Levant., J. Rakoczy., M. Hannan., and J. Orr., “Aerospace Sliding Mode Control Toolbox: Relative Degree Approach with Resource Prospector Lander and Launch Vehicle Case Studies,” Arxiv_preprint, pp. 1-19, 2021. 
 
 2.	Fahimi, F., and Kode, S.S.P., “A universal trajectory tracking controller for mobile robots via model free on-line reinforcement learning,” Control and Intelligent Systems, vol. 43, no. 1, pp. 56-64, 2015. 
                             
