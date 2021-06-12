@@ -134,8 +134,8 @@ The University of Alabama in Huntsville
 * <https://www.uah.edu/eng/engineering-news/8336-whnt-interviews-uah-students-advisor-about-autonomous-robot-build>
 * <http://www.uah.edu/news/research/students-autonomous-robot-project-could-be-a-lifesaver>
 * <https://www.uah.edu/news/people/alumnus-returns-to-uah-as-doctoral-candidate-after-working-in-industry>
-* https://phys.org/news/2014-07-students-autonomous-robot-lifesaver.html
-* https://dianalachance.com/wp-content/uploads/2016/11/sample32.pdf (Academics: Page-8)
+* <https://phys.org/news/2014-07-students-autonomous-robot-lifesaver.html>
+* <https://dianalachance.com/wp-content/uploads/2016/11/sample32.pdf> (Academics: Page-8)
 
 
 # List of References 
