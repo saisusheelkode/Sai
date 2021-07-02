@@ -72,7 +72,7 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 
 ## Journal Articles
 
-1.	Kode, S.S.P., and Y. Shtessel., “Adaptive sliding mode control for prospective lunar lander soft landing,” MDPI Aerospace, under preparation, July 2021.
+1.	Kode, S.S.P., and Y. Shtessel., “MATLAB-based Aerospace Sliding Mode Control Toolbox with Application to Resource Prospector Lander and Launch vehicle,” MDPI Aerospace, under preparation, July 2021.
 
 2.	Kode, S.S.P., Y. Shtessel., A. Levant., J. Rakoczy., M. Hannan., and J. Orr., “Development of Relative Degree Based Aerospace Sliding Mode Control MATLAB Toolbox with Cases Study,” submitted to IEEE Aerospace and Electronics Systems Magazine, June 2021.
 
