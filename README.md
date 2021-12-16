@@ -160,6 +160,12 @@ The University of Alabama in Huntsville
 <br> General Electric Appliances, a Haier Company 
 <br> <michael.gallant@geappliances.com>
 
+* Dr. William Bishop, P.E.
+<br> Part-Time Faculty in Electrical and Computer Engineering
+<br> The University of Alabama in Huntsville 
+<br> <bishopwy@uah.edu>
+
+
 
 
 
