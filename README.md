@@ -1,4 +1,4 @@
-* Ph.D. Candidate, The University of Alabama in Huntsville 
+* Ph.D., The University of Alabama in Huntsville 
 * Advisor: Dr. Yuri B. Shtessel 
 * Huntsville, AL, USA
 * <sk0041@uah.edu>
@@ -24,7 +24,7 @@
 The University of Alabama in Huntsville, Huntsville, AL, USA
 
 * Advisor: Distinguished Prof. Yuri Shtessel 
-* Dissertation: “Aerospace Sliding Mode Control Toolbox: Relative Degree Approach with Resource Prospector Lander and Launch Vehicle Case Studies.”
+* Dissertation: “Development of Aerospace Sliding Mode Control Toolbox: Relative Degree Approach with Resource Prospector Lander and Launch Vehicle Case Studies.”
 
 ## M.S., Mechanical and Aerospace Engineering                                                                                
 The University of Alabama in Huntsville, Huntsville, AL, USA  
@@ -81,17 +81,19 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 4.	F. Fahimi., and S. Kode., “A universal trajectory tracking controller for mobile robots via model free on-line reinforcement learning,” Control and Intelligent Systems, vol. 43, no. 1, pp. 56-64, 2015. 
                             
 ## Conference Proceedings
-1.	S. Kode., and Y. Shtessel., “Sliding Mode Control Toolbox for Aerospace Applications: Relative Degree Approach”, AIAA SciTech 2020 Forum, 1100, FL, USA.
+1.	S. Kode., and Y. Shtessel., “Sliding Mode Control Toolbox for a high fidelity aerospace applications”, IEEE VSS 2022, Brazil, under preparation, March 2022.
+2.	S. Kode., and Y. Shtessel., “Sliding Mode Control Toolbox for Aerospace Applications: Relative Degree Approach”, AIAA SciTech 2020 Forum, 1100, FL, USA.
 
-2.	SSP Kode., and S. Phillips., “Experimental Study of PID and Robust Feedback Linearization Controllers using a 2-DOF Five Link Planar Robot”, IEEE SoutheastCon 2018, FL, USA.
+3.	SSP Kode., and S. Phillips., “Experimental Study of PID and Robust Feedback Linearization Controllers using a 2-DOF Five Link Planar Robot”, IEEE SoutheastCon 2018, FL, USA.
 
-3.	S. Kode., and Y. Shtessel., “Launch Vehicle Control Design Using Sliding Mode Control Toolbox”, 55th Annual Conference on Information Sciences and Systems (CISS) 2021, MD, USA.
+4.	S. Kode., and Y. Shtessel., “Launch Vehicle Control Design Using Sliding Mode Control Toolbox”, 55th Annual Conference on Information Sciences and Systems (CISS) 2021, MD, USA.
 
-4.	S. Kode., and Y. Shtessel., “Resource Prospector Lander Control Design Using Sliding Mode Control Toolbox”, IEEE SoutheastCon 2021, GA, USA.
+5.	S. Kode., and Y. Shtessel., “Resource Prospector Lander Control Design Using Sliding Mode Control Toolbox”, IEEE SoutheastCon 2021, GA, USA.
 
 
 ## ProQuest Theses/Dissertation 
-1.	Kode, S.S.P., 2015. Conversion Of Neural Network Models To State-Space Models For Model-Based Control Design. The University of Alabama in Huntsville.
+1.	Kode, S.S.P., 2022. "Development of Aerospace Sliding Mode Control Toolbox: Relative Degree Approach with Resource Prospector Lander and Launch Vehicle Case Studies". The University of Alabama in Huntsville. Under Preparation. Jan 2022.
+2.	Kode, S.S.P., 2015. "Conversion Of Neural Network Models To State-Space Models For Model-Based Control Design". The University of Alabama in Huntsville.
 
 ## Invited Talks
 1.	SSP Kode., “Universal Learning Controllers for driver-less cars/trucks”, 3-MT Thesis Presentation, The University of Alabama in Huntsville, November 2014, AL, USA.
@@ -107,6 +109,7 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 The University of Alabama in Huntsville
 
 > The Department of Electrical and Computer Engineering 
+* EE 203: Intro Digital Logic Design Lab (Aug 2021 - Present) 
 * EE 202: Intro Digital Logic Design 
 * EE 213: Electrical Circuit Analysis I 
 * EE 315: Intro Electronic Analysis and Design
@@ -118,13 +121,13 @@ The University of Alabama in Huntsville
 The University of Alabama in Huntsville
 
 > The Department of Mechanical and Aerospace Engineering  
-* MAE 111: Intro to Computation Tools                                  
+* MAE 111: Intro to Computation Tools Lab                               
 
 # Service 
 
 ## Reviewer
 
-* IEEE Southeast Conference (2018, 2019, 2020, 2021)
+* IEEE Southeast Conference (2018, 2019, 2020, 2021,2022)
 * IEEE Transactions on Cybernetics Journal (2019)
 * Proceedings of 2018 ASME InterPACK (2018)
 
