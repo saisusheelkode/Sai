@@ -55,8 +55,10 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 
 > 2019 NPI Phase-I Leadership wall oven Program
 
-* Interfaced NPI team, manufacturing, operations, sourcing, suppliers, as well as program managers to champion the transition from design to mass production.
-* Utilized build management practices to assist in the co-ordination trial runs.
+*  Led a Kepo speaker change on Phase-I LCD (Liquid Crystal Display) Wall Ovens project and enhanced the manufacturing process, eliminated the design/thermal/acoustic challenges, and solved Failure reporting, analysis, \& corrective action system (FRACAS) items of an existing speaker in the factory
+*  Interfaced New Product Introduction (NPI) team, manufacturing, operations, sourcing, suppliers, as well as program managers to champion the transition from design to mass production and utilized build management practices to assist in the co-ordination trial runs.
+*  Performed thermal testing on various doors, using thermocouples and temperature probes, looking for viable cost out projects that would still meet UL (Underwriters' Laboratories) standards.
+*  Exercised the use of GE systems such as TechNet, PTC Creo, PTC Creo View, and PTC Creo Schematics. 
 
 ## New Product Introduction Project Engineer (Aug 2015 – Jan 2018) 
 General Electric Appliances, a Haier company, Lafayette, GA, USA
