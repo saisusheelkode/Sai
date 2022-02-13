@@ -55,7 +55,7 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 
 > 2019 NPI Phase-I Leadership wall oven Program
 
-*  Led a Kepo speaker change on Phase-I LCD (Liquid Crystal Display) Wall Ovens project and enhanced the manufacturing process, eliminated the design/thermal/acoustic challenges, and solved Failure reporting, analysis, \& corrective action system (FRACAS) items of an existing speaker in the factory
+*  Led a Kepo speaker change on Phase-I LCD (Liquid Crystal Display) Wall Ovens project and enhanced the manufacturing process, eliminated the  design/thermal/acoustic challenges, and solved Failure reporting, analysis, \& corrective action system (FRACAS) items of an existing speaker in the factory
 *  Interfaced New Product Introduction (NPI) team, manufacturing, operations, sourcing, suppliers, as well as program managers to champion the transition from design to mass production and utilized build management practices to assist in the co-ordination trial runs.
 *  Performed thermal testing on various doors, using thermocouples and temperature probes, looking for viable cost out projects that would still meet UL (Underwriters' Laboratories) standards.
 *  Exercised the use of GE systems such as TechNet, PTC Creo, PTC Creo View, and PTC Creo Schematics. 
@@ -65,9 +65,12 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 
 > 2017 NPI Front Control and Free-Standing Electric Range Program 
 
-* Major responsibilities revolved around the support of design engineers on an NPI program.
-* Instrument and run test units, diagnose and repair units as needed, modify parts and build prototype parts, obtain measurement data needed for six-sigma analysis and support rework of harnessing.
-* Exercised the use of GE systems such as TechNet, PTC Creo and Creo View.
+* Engaged in a cross-functional team environment to identify, develop and launch design improvements for gas and electric consumer cooking products to improve cost, quality, performance and features.
+* Assisted the design and manufacturing of various electronic devices and electrical components, including printed circuit board (PCB) assemblies, micro controller based electronics, Programmable logic controllers (PLCs), AC and DC fans, and wiring harness assemblies for residential cooking products.
+* Coordinated with the New Product Introduction (NPI) design team to ensure that design for manufacturing and assembly (DFMA) principles are incorporated for cooking products.
+* Devised and executed evaluation plans to demonstrate performance to required technical specifications and regulatory requirements for cooking products.
+* Utilized Six Sigma tools and Lean manufacturing principles in the development of new designs for assigned parts and assemblies of cooking products.
+* Administered reliability and performance testing as per agency (UL/CSA/ANSI) and internal GE Appliances requirements.
 
 # Publications 
 > Peer-reviewed
