@@ -79,7 +79,7 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 
 1.	Kode, S.S.P., and Y. Shtessel., “MATLAB-based Aerospace Sliding Mode Control Toolbox with Application to Resource Prospector Lander and Launch vehicle,” MDPI Aerospace, under preparation, Jan 2022.
 
-2.	Kode, S.S.P., Y. Shtessel., A. Levant., J. Rakoczy., M. Hannan., and J. Orr., “Development of Relative Degree Based Aerospace Sliding Mode Control MATLAB Toolbox with Cases Study,” submitted to IEEE Aerospace and Electronics Systems Magazine, June 2021.
+2.	Kode, S.S.P., Y. Shtessel., A. Levant., J. Rakoczy., M. Hannan., and J. Orr., “Development of Relative Degree Based Aerospace Sliding Mode Control MATLAB Toolbox with Cases Study,” IEEE Aerospace and Electronics Systems Magazine, June 2021. (Accepted for Publication) 
 
 3.	Kode, S.S.P., Y. Shtessel., A. Levant., J. Rakoczy., M. Hannan., and J. Orr., “Aerospace Sliding Mode Control Toolbox: Relative Degree Approach with Resource Prospector Lander and Launch Vehicle Case Studies,” Arxiv_preprint, pp. 1-19, 2021. 
 
@@ -95,9 +95,8 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 
 5.	S. Kode., and Y. Shtessel., “Resource Prospector Lander Control Design Using Sliding Mode Control Toolbox”, IEEE SoutheastCon 2021, GA, USA.
 
-
 ## ProQuest Theses/Dissertation 
-1.	Kode, S.S.P., 2022. "Development of Aerospace Sliding Mode Control Toolbox: Relative Degree Approach with Resource Prospector Lander and Launch Vehicle Case Studies". The University of Alabama in Huntsville. Under Preparation. Jan 2022.
+1.	Kode, S.S.P., 2022. "Development of Aerospace Sliding Mode Control Toolbox: Relative Degree Approach with Resource Prospector Lander and Launch Vehicle Case Studies". The University of Alabama in Huntsville.
 2.	Kode, S.S.P., 2015. "Conversion Of Neural Network Models To State-Space Models For Model-Based Control Design". The University of Alabama in Huntsville.
 
 ## Invited Talks
@@ -114,7 +113,10 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 The University of Alabama in Huntsville
 
 > The Department of Electrical and Computer Engineering 
+> Instructed Courses 
 * EE 203: Intro Digital Logic Design Lab (Aug 2021 - Present) 
+
+> Mentored Courses 
 * EE 202: Intro Digital Logic Design 
 * EE 213: Electrical Circuit Analysis I 
 * EE 315: Intro Electronic Analysis and Design
@@ -126,6 +128,7 @@ The University of Alabama in Huntsville
 The University of Alabama in Huntsville
 
 > The Department of Mechanical and Aerospace Engineering  
+> Instructed Courses 
 * MAE 111: Intro to Computation Tools Lab                               
 
 # Service 
@@ -135,6 +138,8 @@ The University of Alabama in Huntsville
 * IEEE Southeast Conference (2018, 2019, 2020, 2021,2022)
 * IEEE Transactions on Cybernetics Journal (2019)
 * Proceedings of 2018 ASME InterPACK (2018)
+* IEEE Transactions on Aerospace and Electronic Systems (2022)
+* IEEE Conference on Decision and Control (2021) 
 
 # Press Interviews and Articles
 
