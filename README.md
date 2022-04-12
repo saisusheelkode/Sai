@@ -79,7 +79,7 @@ General Electric Appliances, a Haier company, Lafayette, GA, USA
 
 1.	Kode, S.S.P., and Y. Shtessel., “MATLAB-based Aerospace Sliding Mode Control Toolbox with Application to Resource Prospector Lander and Launch vehicle,” MDPI Aerospace, under preparation, Jan 2022.
 
-2.	Kode, S.S.P., Y. Shtessel., A. Levant., J. Rakoczy., M. Hannan., and J. Orr., “Development of Relative Degree Based Aerospace Sliding Mode Control MATLAB Toolbox with Cases Study,” IEEE Aerospace and Electronics Systems Magazine, June 2021. (Accepted for Publication) 
+2.	Kode, S.S.P., Y. Shtessel., A. Levant., J. Rakoczy., M. Hannan., and J. Orr., “Development of Relative Degree Based Aerospace Sliding Mode Control MATLAB Toolbox with Cases Study,” IEEE Aerospace and Electronics Systems Magazine, 2022. (Accepted for Publication) 
 
 3.	Kode, S.S.P., Y. Shtessel., A. Levant., J. Rakoczy., M. Hannan., and J. Orr., “Aerospace Sliding Mode Control Toolbox: Relative Degree Approach with Resource Prospector Lander and Launch Vehicle Case Studies,” Arxiv_preprint, pp. 1-19, 2021. 
 
