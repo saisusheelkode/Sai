@@ -1,6 +1,6 @@
 * Ph.D., The University of Alabama in Huntsville 
 * Advisor: Dr. Yuri B. Shtessel 
-* Huntsville, AL, USA
+* Houston, TX, USA
 * <sk0041@uah.edu>
 
 ## Research Interests
